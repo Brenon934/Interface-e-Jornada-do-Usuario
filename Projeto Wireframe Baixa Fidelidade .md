@@ -54,7 +54,7 @@ Este projeto demonstra como um aplicativo de plano de saúde pode ser estruturad
 <img width="720" height="1080" alt="Image" src="https://github.com/user-attachments/assets/df532ff5-0065-4986-88bc-23e3a8681081" />
 </div>
 <br>
-<h1>Crédito criadores dos icons:</h1>
+### 📌 Crédito criadores dos icons:
 
 <a href="https://www.flaticon.com/free-icons/question" title="question icons">Question icons created by Freepik - Flaticon</a><br>
 <a href="https://www.flaticon.com/free-icons/card" title="card icons">Card icons created by Pixel perfect - Flaticon</a><br>
