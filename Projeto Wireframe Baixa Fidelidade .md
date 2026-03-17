@@ -24,7 +24,7 @@ Este projeto demonstra como um aplicativo de plano de saúde pode ser estruturad
 
 [<strong>Link do Prototipo no Figma</strong>](https://www.figma.com/design/PN5K0HVozP7OHrW1rKvlyd/Projeto-media-fidelidade?node-id=0-1&t=UrY9rgjKvWZ9U9DM-1)
 
-<h2 align="center">Imagens do Prototipo:</h2>
+<h2 align="center">🖼️ Imagens do Prototipo:</h2>
 <br>
 <div align="center">
 <img width="720" height="1080" alt="Image" src="https://github.com/user-attachments/assets/98be2a52-020f-4061-9406-448be30de28c" />
