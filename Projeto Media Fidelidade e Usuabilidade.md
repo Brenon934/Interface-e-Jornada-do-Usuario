@@ -6,7 +6,7 @@ com os seguintes requisitos:<br>
 <br>- Organizar múltiplas funcionalidades dentro do app sem dificultar o acesso à tarefa crítica de cuidado emocional.</p>
 <br>
 
-[<strong>Link do Prototipo</strong>](https://www.figma.com/design/PN5K0HVozP7OHrW1rKvlyd/Projeto-media-fidelidade?node-id=0-1&t=UrY9rgjKvWZ9U9DM-1)
+[<strong>Link do Prototipo no Figma</strong>](https://www.figma.com/design/PN5K0HVozP7OHrW1rKvlyd/Projeto-media-fidelidade?node-id=0-1&t=UrY9rgjKvWZ9U9DM-1)
 <br>
 
 <h2 align="center">Imagens do Prototipo</h2>
