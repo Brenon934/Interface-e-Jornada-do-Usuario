@@ -1,15 +1,30 @@
-<h1 align="center">Aplicativo Plano de Saúde</h1>
-<p>O projeto trata-se de um protótipo de um aplicativo Fictício de Plano de Saúde  com diversos recursos e que disponibiliza ao usuário duas formar diferentes de <strong>agendar uma consulta</strong> com um Pscólogo, atendendo
-com os seguintes requisitos:<br>
-<br>- Encontrar um psicólogo disponível e realizar o agendamento com sucesso.
-<br>- Pessoa adulta, ocupada, emocionalmente vulnerável e com baixa tolerância à fricção.
-<br>- Organizar múltiplas funcionalidades dentro do app sem dificultar o acesso à tarefa crítica de cuidado emocional.</p>
-<br>
+<h1 align="center">📱 Projeto de Wireframe de Baixa Fidelidade – App de Plano de Saúde</h1>
+
+### 📖 Sobre o Projeto:
+<p>Este projeto consiste no desenvolvimento de um <strong>wireframe de baixa fidelidade</strong> para um aplicativo de <strong>plano de saúde</strong>. O objetivo é representar de forma simples a estrutura inicial das telas e a organização das funcionalidades do aplicativo, permitindo analisar a navegação e a experiência do usuário.</p>
+
+### 🎯 Objetivo Principal
+<pr>O principal objetivo do projeto é avaliar a facilidade de navegação do usuário, garantindo que a função mais importante do aplicativo, o <strong>agendamento de consultas</strong>,  possa ser encontrada de forma <strong>rápida, simples e intuitiva</strong>.
+  
+Para isso, o wireframe foi projetado para oferecer dois caminhos diferentes até a funcionalidade de agendamento.</pr>
+
+### ⚙️ Funcionalidades Representadas:
+
+- Cartereirinha Virtual; 
+- Agendamento de consultas;
+- Informações do Plano de Saúde;
+- Histórico de consultas;
+- Notificações;
+- Suporte ao cliente;
+- Perfil do usuário;
+- Reembolso.
+  
+### 📌 Conclusão
+Este projeto demonstra como um aplicativo de plano de saúde pode ser estruturado de forma **organizada, acessível e eficiente**, garantindo que os usuários consigam realizar o **agendamento de consultas de forma rápida e intuitiva**, independentemente do caminho escolhido dentro da aplicação.
 
 [<strong>Link do Prototipo no Figma</strong>](https://www.figma.com/design/PN5K0HVozP7OHrW1rKvlyd/Projeto-media-fidelidade?node-id=0-1&t=UrY9rgjKvWZ9U9DM-1)
-<br>
 
-<h2 align="center">Imagens do Prototipo</h2>
+<h2 align="center">Imagens do Prototipo:</h2>
 <br>
 <div align="center">
 <img width="720" height="1080" alt="Image" src="https://github.com/user-attachments/assets/98be2a52-020f-4061-9406-448be30de28c" />
