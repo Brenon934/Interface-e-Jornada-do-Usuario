@@ -38,4 +38,13 @@ com os seguintes requisitos:<br>
   <br>
 <img width="720" height="1080" alt="Image" src="https://github.com/user-attachments/assets/df532ff5-0065-4986-88bc-23e3a8681081" />
 </div>
+<br>
+<h1>Crédito criadores dos icons:</h1>
 
+<a href="https://www.flaticon.com/free-icons/question" title="question icons">Question icons created by Freepik - Flaticon</a><br>
+<a href="https://www.flaticon.com/free-icons/card" title="card icons">Card icons created by Pixel perfect - Flaticon</a><br>
+<a href="https://www.flaticon.com/free-icons/home-button" title="home button icons">Home button icons created by Freepik - Flaticon</a><br>
+<a href="https://www.flaticon.com/free-icons/google" title="google icons">Google icons created by Freepik - Flaticon</a><br>
+<a href="https://www.flaticon.com/free-icons/wrench" title="wrench icons">Wrench icons created by Gregor Cresnar Premium - Flaticon</a><br>
+<a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Freepik - Flaticon</a><br>
+<a href="https://www.flaticon.com/free-icons/notification" title="notification icons">Notification icons created by Freepik - Flaticon</a><br>
