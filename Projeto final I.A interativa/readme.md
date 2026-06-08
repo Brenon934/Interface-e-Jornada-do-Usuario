@@ -15,6 +15,8 @@ O sistema foi projetado para atender diferentes perfis de usuários, incluindo:
 - Idosos;
 - Usuários que preferem consumir conteúdos em áudio ou Libras.
 
+Acesse o [Prototipo](https://www.figma.com/proto/gpC0k8TGjMHsQI7j5DgZvZ/Projeto-final-I.A-interativa?node-id=5-2&t=U1iO28x616apGtWg-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A2)
+
 ## 🎯 Objetivo do Projeto
  Desenvolver uma Inteligência Artificial Mobile capaz de facilitar o acesso à informação por meio da conversão automática de conteúdos textuais e visuais em formatos acessíveis.
  
