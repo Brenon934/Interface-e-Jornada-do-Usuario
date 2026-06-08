@@ -64,4 +64,5 @@ Acesse o [Prototipo](https://www.figma.com/proto/gpC0k8TGjMHsQI7j5DgZvZ/Projeto-
 ### Colaboradores do Projeto:
 
 [Luana Vitória](https://github.com/Luanavitoria22)
+
 [Paola Victoria](https://github.com/Paola-2711)
